@@ -162,7 +162,7 @@ TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
 
 # TW Version
-TW_DEVICE_VERSION := BY VERGIL PAMPANGA 
+TW_DEVICE_VERSION := Whale (techsbyte.com)
 
 # Hack: prevent anti rollback
 PLATFORM_SECURITY_PATCH := 2099-12-31
